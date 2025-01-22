@@ -149,8 +149,8 @@ my_project/
 
 
 Project Architecture:-
-![Architecture](https://github.com/shubhamarora33/Retail-Sales-Data-Optimization-System/tree/main/docs\architecture.png)
+![Local](Retail-Sales-Data-Optimization-System/tree/main/docs\architecture.png)
 
 Database ER Diagram:-
-![Architecture](https://github.com/shubhamarora33/Retail-Sales-Data-Optimization-System/tree/main/docs\database_schema.drawio.png)
+![Local](Retail-Sales-Data-Optimization-System/tree/main/docs\database_schema.drawio.png)
 
