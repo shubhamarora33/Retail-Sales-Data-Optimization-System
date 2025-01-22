@@ -1,4 +1,4 @@
-# Retail-Sales-Data-Optimization-System Using Python, MySQL, AWS S3 and Apache Spark
+# Retail Sales Data Optimization System Using Python, MySQL, AWS S3 and Apache Spark
 
 This project builds an end-to-end ETL data pipeline to process transactional data from various sources. It creates structured data marts to enable insightful analysis of customer purchasing behavior and sales team performance. The pipeline ensures data security, logging, error handling, and efficient resource management. Processed data is sourced from AWS S3 and utilized to generate actionable reports supporting various business use cases.
 
